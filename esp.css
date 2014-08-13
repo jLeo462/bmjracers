@@ -1,21 +1,14 @@
 body { background-color: #cc3300; 
      font-family: Verdana, Arial, sans-serif;
      background-image: url(images/store.jpg);
-<<<<<<< HEAD
-     
-=======
->>>>>>> 1c8b427e0d627e33e5b645c0a4c1e36588098c79
 //2, 6b, 8b, 4 and 990000, cc3300, 993300, ff6633, da3f01, be3700, b63200, ae2d00//
 }
 p {color: #ff9900;
 font-size: 1em;
 }
 h1 { background-repeat: no repeat;
-<<<<<<< HEAD
     color: #FF0000;
-=======
     color: #ff0000;
->>>>>>> 1c8b427e0d627e33e5b645c0a4c1e36588098c79
     line-height: 150%;
     text-align: center;
     padding-top: 10px;
