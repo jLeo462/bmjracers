@@ -112,9 +112,13 @@ li { color: #ff9900;
     border: 0;
     border-radius: 5px 5px 5px 5px;
 }
+
 .goodbye {
     position: fixed;
     bottom: 50px;
     width: 600px;
     margin: auto;
+
+a {
+    text-decoration: none;
 }
