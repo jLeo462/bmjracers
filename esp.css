@@ -7,7 +7,8 @@ p {color: #ff9900;
 font-size: 1em;
 }
 h1 { background-repeat: no repeat;
-    color: #666666;
+background-color: #000000;
+    color: #ff0000;
     line-height: 150%;
     text-align: center;
     padding-top: 10px;
