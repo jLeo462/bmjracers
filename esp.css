@@ -1,19 +1,19 @@
 body { background-color: #cc3300; 
      font-family: Verdana, Arial, sans-serif;
-     background-image: url(images/colors2.jpg);
+     background-image: url(images/store.jpg);
 //2, 6b, 8b, 4 and 990000, cc3300, 993300, ff6633, da3f01, be3700, b63200, ae2d00//
 }
 p {color: #ff9900;
 font-size: 1em;
 }
 h1 { background-repeat: no repeat;
-background-color: #000000;
     color: #ff0000;
     line-height: 150%;
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 5px 5px 5px 5px;
+    background-color: #000000;
 }
 h2 { background-color: #000000;
     color: #666666; 
