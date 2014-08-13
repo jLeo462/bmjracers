@@ -13,7 +13,7 @@ h1 { background-repeat: no repeat;
     color: #ff0000;
     line-height: 150%;
     text-align: center;
-    padding-top: 10px;
+    margin-top: -10px;
     padding-bottom: 10px;
     border-radius: 5px 5px 5px 5px;
     background-color: #000000;
@@ -66,51 +66,7 @@ li { color: #ff9900;
 #wrapper { margin-left: auto;
           margin-right: auto;
           width: 90%;
-} 
 
-#logo {width: 548px;
-    height: 180px;
-    background-color: #000000;
- //   background-image:url(images/LogoBanner2.gif);
-    background-image:url(images/reverseBanner2.jpg);
-    background-repeat: no-repeat;
-    border: 0;
-    border-radius: 5px 5px 5px 5px;
-}
-#reverselogo {width: 96px;
-    height: 120px;
-    background-image:url(images/reverseLogo1.jpg);
-    background-repeat: no-repeat;
-    border: 0;
-    border-radius: 5px 5px 5px 5px;
-}
-#art {width: 596px;
-    height: 288px;
-    background-image:url(images/ArtPour2.jpg);
-    background-repeat: no-repeat;
-    border: 0;
-    border-radius: 5px 5px 5px 5px;
-}
-#front {width: 153px;
-    height: 120px;
-    background-image:url(images/front.jpg);
-    background-repeat: no-repeat;
-    border: 0;
-    border-radius: 5px 5px 5px 5px;
-}
-#inside {width: 162px;
-    height: 120px;
-    background-image:url(images/inside.jpg);
-    background-repeat: no-repeat;
-    border: 0;
-    border-radius: 5px 5px 5px 5px;
-}
-#map {width: 296px;
-    height: 216px;
-    background-image:url(images/MaptoEspressoFINO.gif);
-    background-repeat: no-repeat;
-    border: 0;
-    border-radius: 5px 5px 5px 5px;
 }
 
 .goodbye {
