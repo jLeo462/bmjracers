@@ -1,6 +1,8 @@
-body { background-color: #cc3300; 
+body { background-color: #000000; 
      font-family: Verdana, Arial, sans-serif;
      background-image: url(images/store3.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
 //2, 6b, 8b, 4 and 990000, cc3300, 993300, ff6633, da3f01, be3700, b63200, ae2d00//
 }
 p {color: #ff9900;
@@ -28,8 +30,9 @@ h2 { background-color: #000000;
     border-radius: 5px 5px 5px 5px;
     
 }
-h3 { color: #ffcc33;
+h3 { color: #ff9900;
     line-height: 120%;
+    text-align: center;
 }
 h4 { background-repeat: no repeat;
     text-align: center;
@@ -57,6 +60,8 @@ li { color: #ff9900;
     margin-right: auto;
     width: 70%;
     border-radius: 5px 5px 5px 5px;
+    position: fixed;
+    bottom: 20px;
 }
 #wrapper { margin-left: auto;
           margin-right: auto;
@@ -106,4 +111,10 @@ li { color: #ff9900;
     background-repeat: no-repeat;
     border: 0;
     border-radius: 5px 5px 5px 5px;
+}
+.goodbye {
+    position: fixed;
+    bottom: 50px;
+    width: 600px;
+    margin: auto;
 }
