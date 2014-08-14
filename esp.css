@@ -3,12 +3,14 @@ body { background-color: #000000;
      background-image: url(images/store3.jpg);
      background-repeat: no-repeat;
      background-position: center;
-//2, 6b, 8b, 4 and 990000, cc3300, 993300, ff6633, da3f01, be3700, b63200, ae2d00//
 }
-p {color: #ff9900;
-font-size: 1em;
+p
+{
+    color: #ff9900;
 }
-header { background-repeat: no repeat;
+header
+{
+    background-repeat: no repeat;
     color: #FF0000;
     color: #ff0000;
     line-height: 150%;
@@ -18,7 +20,9 @@ header { background-repeat: no repeat;
     border-radius: 5px 5px 5px 5px;
     background-color: #000000;
 }
-h2 { background-color: #000000;
+h2
+{
+    background-color: #000000;
     color: #666666; 
     line-height: 120%;
     font-size: 1.12em;
@@ -28,32 +32,52 @@ h2 { background-color: #000000;
     width: 80%;
     padding: 5px 0px 5px 0px;
     border-radius: 5px 5px 5px 5px;
-    
 }
-h3 { color: #ff9900;
+section
+{
+    text-align: center;
+    color: #ff9900;
+}
+article
+{
+    color: #ff9900;
     line-height: 120%;
     text-align: center;
+    padding-bottom: 0px;
+    
 }
-h4 { background-repeat: no repeat;
+h4
+{
+    background-repeat: no-repeat;
     text-align: center;
     border-radius: 5px 5px 5px 5px;
 }
-li { text-align: center;
-color: #ff9900;
+li
+{
+    text-align: center;
+    color: #ff9900;
 }
-ul { text-align: center;
-list-style-position: inside;
-color: #ff9900;
+ul
+{
+    text-align: center;
+    list-style-position: inside;
+    color: #ff9900;
 }
-.content { margin-left: auto;
-          margin-right: auto;
-          width:  60%;
+.content
+{
+    margin-left: auto;
+    margin-right: auto;
+    width:  60%;
 }
-.nav { margin-left: auto;
+.nav
+{
+    margin-left: auto;
     margin-right: auto;
     text-align: center;
 }
-footer { background-color:#000000;
+footer
+{
+    background-color:#000000;
     color: #ffcc33;
     line-height: 150%;
     font-size: .60em;
@@ -61,18 +85,22 @@ footer { background-color:#000000;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
+    width: 100%;
     border-radius: 5px 5px 5px 5px;
     position: fixed;
     bottom: 20px;
+    clear: both;
 }
-#wrapper { margin-left: auto;
-          margin-right: auto;
-          width: 90%;
+#wrapper
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
 
 }
 
-.goodbye {
+.goodbye
+{
     position: fixed;
     bottom: 50px;
     width: 600px;
