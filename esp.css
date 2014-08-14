@@ -8,7 +8,7 @@ body { background-color: #000000;
 p {color: #ff9900;
 font-size: 1em;
 }
-h1 { background-repeat: no repeat;
+header { background-repeat: no repeat;
     color: #FF0000;
     color: #ff0000;
     line-height: 150%;
@@ -53,7 +53,7 @@ color: #ff9900;
     margin-right: auto;
     text-align: center;
 }
-.footer { background-color:#000000;
+footer { background-color:#000000;
     color: #ffcc33;
     line-height: 150%;
     font-size: .60em;
