@@ -69,7 +69,7 @@ ul
     margin-right: auto;
     width:  60%;
 }
-.nav
+nav
 {
     margin-left: auto;
     margin-right: auto;
@@ -110,3 +110,8 @@ footer
 a {
     text-decoration: none;
 }
+@media (max-width: 643px)
+{
+    header 
+}
+        border: 1px solid transparent;
