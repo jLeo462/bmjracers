@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body
 {
     background-color: #000000; 
@@ -7,7 +6,7 @@ body
     background-repeat: no-repeat;
     background-position: center;
 }
-=======
+
 body { background-color: #000000; 
      font-family: Verdana, Arial, sans-serif;
      background-image: url(images/store3.jpg);
@@ -15,7 +14,7 @@ body { background-color: #000000;
      background-position: center;
 
     }
->>>>>>> change css padding for header
+
 p
 {
     color: #ff9900;
