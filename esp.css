@@ -1,15 +1,17 @@
-body { background-color: #000000; 
-     font-family: Verdana, Arial, sans-serif;
-     background-image: url(images/store3.jpg);
-     background-repeat: no-repeat;
-     background-position: center;
-    }
+body
+{
+    background-color: #000000; 
+    font-family: Verdana, Arial, sans-serif;
+    background-image: url(images/store3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
 p
-    {
+{
     color: #ff9900;
-    }
+}
 header
-    {
+{
     background-repeat: no repeat;
     color: #FF0000;
     color: #ff0000;
@@ -19,9 +21,9 @@ header
     padding-bottom: 10px;
     border-radius: 5px 5px 5px 5px;
     background-color: #000000;
-    }
+}
 h2
-    {
+{
     background-color: #000000;
     color: #666666; 
     line-height: 120%;
@@ -32,51 +34,50 @@ h2
     width: 80%;
     padding: 5px 0px 5px 0px;
     border-radius: 5px 5px 5px 5px;
-    }
+}
 section
-    {
+{
     text-align: center;
     color: #ff9900;
-    }
+}
 article
-    {
+{
     color: #ff9900;
     line-height: 120%;
     text-align: center;
     padding-bottom: 0px;
-    
-    }
+}
 h4
-    {   
+{   
     background-repeat: no-repeat;
     text-align: center;
     border-radius: 5px 5px 5px 5px;
-    }
+}
 li
-    {
+{
     text-align: center;
     color: #ff9900;
-    }
+}
 ul
-    {
+{
     text-align: center;
     list-style-position: inside;
     color: #ff9900;
-    }
+}
 .content
-    {
+{
     margin-left: auto;
     margin-right: auto;
     width:  60%;
-    }
+}
 nav
-    {
+{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    }
+}
 footer
-    {
+{
     background-color:#000000;
     color: #ffcc33;
     line-height: 150%;
@@ -90,28 +91,29 @@ footer
     position: fixed;
     bottom: 20px;
     clear: both;
-    }
+}
 #wrapper
-    {
+{
     margin-left: auto;
     margin-right: auto;
     width: 90%;
-
-    }
+}
 
 .goodbye
-    {
+{
     position: fixed;
     bottom: 50px;
     width: 600px;
     margin: auto;
-    }
+}
 
-a   {
+a
+{
     text-decoration: none;
-    }
+}
+    
 @media (max-width: 643px)
-    {   
+{   
     header
     {
         border: 1px solid transparent;
