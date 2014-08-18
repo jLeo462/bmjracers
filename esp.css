@@ -1,19 +1,18 @@
-body
-{
-    background-color: #000000; 
-    font-family: Verdana, Arial, sans-serif;
-    background-image: url(images/store3.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
-body { background-color: #000000; 
+body 
+{ 
+     background-color: #000000; 
      font-family: Verdana, Arial, sans-serif;
      background-image: url(images/store3.jpg);
      background-repeat: no-repeat;
      background-position: center;
+}
 
-    }
+@font-face 
+{
+	font-family:freestyl;
+	src: url("fonts/FREESTYL.tff");
+		src: url("fonts/FREESTYL.woff");
+}
 
 p
 {
@@ -25,12 +24,19 @@ header
     color: #FF0000;
     line-height: 150%;
     text-align: center;
+    font-family: FREESTYL, sans-serif;
     margin-top: -10px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     padding-top: 20px;
     border-radius: 5px 5px 5px 5px;
     background-color: #000000;
 }
+h1
+{
+
+    font-family: freestyl, sans-serif;
+}
+
 h2
 {
     background-color: #000000;
@@ -113,7 +119,7 @@ a
 {
     text-decoration: none;
 }
-    
+  
 @media (max-width: 643px)
 {   
     header
@@ -135,3 +141,6 @@ a
         border: 1px solid transparent;
     }
 }
+
+
+
